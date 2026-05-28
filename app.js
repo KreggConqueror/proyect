@@ -235,7 +235,7 @@ checkoutBtn.addEventListener("click", () => {
 
   /* CAMBIA TU NUMERO */
 
-  const phone = "5217220000000";
+  const phone = "5217222034684";
 
   const url = `https://wa.me/${phone}?text=${message}`;
 
